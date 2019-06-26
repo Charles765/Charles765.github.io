@@ -59,7 +59,7 @@ layout: default
 <br />
 * **Three things I did today:**
 <br />
-  * I created a free github website
+  * I created a free github website and used it to write my Work Experience Journal. I also plan to create a blog post on my new aquarium that I am going to set up.
   * I chose a template and edited the code to fit my needs
   * Explored the different features available for me to use on my website
 <br />
