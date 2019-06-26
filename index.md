@@ -53,15 +53,15 @@ layout: default
 <br />
 * **Three things I learnt today:**
 <br />
-  *
-  *
-  *
+  * I learnt how to create a free website using GitHub
+  * I learnt how to create different templates and use markdown to add text to my work and give them specific characteristic such as **bold**, *italics* and ~~strikethrough~~
+  * I learnt the different markdown syntaxes that I can use for my github website
 <br />
 * **Three things I did today:**
 <br />
-  *
-  *
-  *
+  * I created a free github website
+  * I chose a template and edited the code to fit my needs
+  * Explored the different features available for me to use on my website
 <br />
 * **Three questions:**
 <br />
