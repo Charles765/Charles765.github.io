@@ -65,9 +65,9 @@ layout: default
 <br />
 * **Three questions:**
 <br />
-  *
-  *
-  *
+  * How can I make my own template?
+  * How do programmers utilise github websites?
+  * What are other features of github websites? (e.g code, communication etc)
 <br />
 * **Paragraph:**
 <br />
