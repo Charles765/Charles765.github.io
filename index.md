@@ -101,21 +101,7 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ### Test image
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br />
 
 ![my_img](assets/images/image.png)
 
