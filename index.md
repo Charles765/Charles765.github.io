@@ -9,20 +9,21 @@ layout: default
 <br />
 Monday (24/06/2019)
 <br />
-**Three things I learnt today:**
+* **Three things I learnt today:**
 <br />
-  * Learnt how to find the complement of a gene sequence and how to reverse it in order to transcribe it to RNA using Python programming;
+  * Learnt about the public databases for retrieving genomic and proteomic sequences.
+  * Learnt how to find the complement of a gene sequence and how to reverse it in order to transcribe it to RNA using Python programming.
   * Learnt how to use machine learning approaches to identify the handwriting style of digits and name what number they are.
 <br />
-**Three things I did today:**
+* **Three things I did today:**
 <br />
   * Getting an introduction to what bioinformatics involves and being introduced to my supervisors
   * Searching the different public online databases for genomic and proteomic sequences.
   * Downloaded anaconda and played around with the different packages.
 <br />
-**Three questions:**
+* **Three questions:**
 <br />
   * What are the machine learning approaches used to identify plants/diseases/cancers?
-  * How can python be used for data visualization and what packages are used for them?
+  * How can python be used for data visualisation and what packages are used for them?
   * How many complete genomes of organisms have been found?
 <br />
