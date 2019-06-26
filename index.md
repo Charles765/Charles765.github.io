@@ -102,7 +102,11 @@ end
 
 ### Test image
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
 ![my_img](assets/images/image.png)
 
 ### Definition lists can be used with HTML syntax.
